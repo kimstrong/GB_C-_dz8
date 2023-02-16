@@ -1,0 +1,15 @@
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\bin\Debug\net7.0\DZ8_3.exe
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\bin\Debug\net7.0\DZ8_3.deps.json
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\bin\Debug\net7.0\DZ8_3.runtimeconfig.json
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\bin\Debug\net7.0\DZ8_3.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\bin\Debug\net7.0\DZ8_3.pdb
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\DZ8_3.csproj.AssemblyReference.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\DZ8_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\DZ8_3.AssemblyInfoInputs.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\DZ8_3.AssemblyInfo.cs
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\DZ8_3.csproj.CoreCompileInputs.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\DZ8_3.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\refint\DZ8_3.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\DZ8_3.pdb
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\DZ8_3.genruntimeconfig.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_3\obj\Debug\net7.0\ref\DZ8_3.dll

@@ -1,0 +1,30 @@
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.csproj.AssemblyReference.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.AssemblyInfoInputs.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.AssemblyInfo.cs
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.exe
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.deps.json
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.runtimeconfig.json
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.pdb
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\refint\DZ8_2.dll
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.pdb
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.genruntimeconfig.cache
+D:\GeekBrains\GeekBrains_2636\C#\Seminar\DZ8\DZ8_2\obj\Debug\net7.0\ref\DZ8_2.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.csproj.AssemblyReference.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.AssemblyInfoInputs.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.AssemblyInfo.cs
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.csproj.CoreCompileInputs.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\refint\DZ8_2.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.pdb
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.exe
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.deps.json
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.runtimeconfig.json
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\bin\Debug\net7.0\DZ8_2.pdb
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\DZ8_2.genruntimeconfig.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ8\DZ8_2\obj\Debug\net7.0\ref\DZ8_2.dll
